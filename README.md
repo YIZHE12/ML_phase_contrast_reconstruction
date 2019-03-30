@@ -7,5 +7,7 @@ X-ray phase contrast image can provided much higher contrast among soft tissues,
 <img src=Github_phasecontrast.jpg height = 300>
 
 Method 1: [Digital image cross correlation](phase_contrast_reconstruction/phase_contrast_reconstruction/Cross_cor_main.py)
+
 Method 2: [Unified Modulated Pattern Analysis](https://github.com/pierrethibault/UMPA)
+
 Method 3: [Use turncated newton method to minimize the cost function](phase_contrast_reconstruction/Iterative_cal.py)
