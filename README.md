@@ -6,7 +6,8 @@ T
 he pair of raw data for signal extraction:
 
 <img src=raw_data_I.jpg height = 300> <img src=raw_sandpaper.jpg height = 300>
-Raw data can be downloaded in https://sciencedata.dk/shared/breast_speckle
+
+Raw data for this example can be downloaded in https://sciencedata.dk/shared/breast_speckle
 
 
 Here, we demonstrated three different methods to extract the phase information based on 'speckle tracking X-ray phase contrast image' of a breast tumour. As this is simulation data, we are able to know the ground truth values to compared with the extracted phase values from the raw data. 
