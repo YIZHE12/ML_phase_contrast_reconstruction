@@ -2,7 +2,12 @@
 Raw data can be downloaded in https://sciencedata.dk/shared/breast_speckle
 
 
-X-ray phase contrast image can provided much higher contrast among soft tissues, therefore, more ideal for breast cancer diagnosis. However, to extract the phase information from the X-ray image, additional experimental setup and signal recovery method is required. Here, we demonstrated three different methods to extract the phase information based on 'speckle tracking X-ray phase contrast image' of a breast tumour. As this is simulation data, we are able to know the ground truth values to compared with the extracted phase values from the raw data. 
+X-ray phase contrast image can provided much higher contrast among soft tissues, therefore, more ideal for breast cancer diagnosis. However, to extract the phase information from the X-ray image, additional experimental setup and signal recovery method is required.
+The raw data is extremely noise and required sophiscated mathmatrical method to extract useful signal.
+The pair of raw data for signal extraction:
+<img src=raw_data_I.jpg height = 300> <img src=raw_sandpaper.jpg height = 300>
+
+Here, we demonstrated three different methods to extract the phase information based on 'speckle tracking X-ray phase contrast image' of a breast tumour. As this is simulation data, we are able to know the ground truth values to compared with the extracted phase values from the raw data. 
 
 <img src=Github_phasecontrast.jpg height = 300>
 
