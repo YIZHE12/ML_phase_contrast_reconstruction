@@ -12,7 +12,7 @@ Raw data for this example can be downloaded in https://sciencedata.dk/shared/bre
 
 Here, we demonstrated three different methods to extract the phase information based on 'speckle tracking X-ray phase contrast image' of a breast tumour. As this is simulation data, we are able to know the ground truth values to compared with the extracted phase values from the raw data. 
 
-<img src=Github_phasecontrast.jpg height = 300>
+<img src=Github_phasecontrast.jpg height = 500>
 
 Method 1: [Digital image cross correlation](phase_contrast_reconstruction/phase_contrast_reconstruction/Cross_cor_main.py)
 
