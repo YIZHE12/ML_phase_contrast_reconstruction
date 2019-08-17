@@ -14,8 +14,8 @@ Here, we demonstrated three different methods to extract the phase information b
 
 <img src=Github_phasecontrast.jpg height = 500>
 
-Method 1: [Digital image cross correlation](phase_contrast_reconstruction/phase_contrast_reconstruction/Cross_cor_main.py)
+Method 1: [Digital image cross correlation](Cross_cor_main.py)
 
 Method 2: [Unified Modulated Pattern Analysis](https://github.com/pierrethibault/UMPA)
 
-Method 3: [Use turncated newton method to minimize the cost function](phase_contrast_reconstruction/Iterative_cal.py)
+Method 3: [Use turncated newton method to minimize the cost function](Iterative_cal.py)
